@@ -36,7 +36,7 @@ class _NewPostState extends State<NewPost> {
                     CupertinoIcons.info,
                     color: Colors.grey,
                   ),
-                  labelText: 'Caption',
+                  labelText: 'Title',
                   hintText: 'Type here something',
                   border: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(8),
